@@ -1,0 +1,5 @@
+Получить карту  GenerateMaze
+Печать карты  ShowMap
+Раскраска карты  СolorizeMap
+Поиск пути Point2d FindWay
+Вывод пути  ShowWay
